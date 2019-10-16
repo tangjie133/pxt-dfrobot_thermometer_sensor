@@ -11,7 +11,7 @@
         "README.md",
         "thermometer.ts"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "testFiles": [
         "test.ts"
     ]
