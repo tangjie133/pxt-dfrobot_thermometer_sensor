@@ -1,1 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"><variables></variables><block type="pxt-on-start" x="20" y="20"></block><block type="device_forever" x="225" y="20"></block></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml"><variables></variables><block type="device_forever" id="UU,GE4q?,*xG0xD/#btF" x="0" y="0"><statement name="HANDLER"><block type="device_show_number" id="eDJzM{_b?OMgjv]5we}P"><value name="number"><block type="DFRobot_Thermometer_Sensor_GetObjectTemp_C" id="sC^^YUAoQ39a]z_%]*g#"></block></value></block></statement></block></xml>
